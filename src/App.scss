@@ -1,0 +1,29 @@
+@import "~bootstrap/scss/bootstrap";
+
+$primary: #0054FF;
+
+.App {
+  font-family: 'Graphik', sans-serif;
+  
+  h1 {
+    font-size: 3rem;
+    color: $black;
+  }
+}
+.resultado{
+  font-size: 1.60rem;
+  color: $white;
+}
+.resultado::selection{
+  background-color: $black;
+}
+
+.texto-explicacao{
+  text-align: justify;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
