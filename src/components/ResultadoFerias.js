@@ -48,8 +48,8 @@ const ResultadoFerias = () => {
     { evento: "Abono Pecuniário", ref: "-", proventos: valorAbono, descontos: "-" },
     { evento: "1/3 Abono Pecuniário", ref: "-", proventos: valorAbono/3, descontos: "-" },
     { evento: "Adiantamento da 1ª Parcela 13º", ref: "-", proventos: valor13, descontos: "-" },
-    { evento: "INSS", ref: aliquotaINSS+"%", proventos: "-", descontos: valorINSS },
-    { evento: "IRRF", ref: aliquotaIRRF+"%", proventos: "-", descontos: valorIRRF },
+    { evento: "INSS", ref: aliquotaINSS*100+"%", proventos: "-", descontos: valorINSS },
+    { evento: "IRRF", ref: aliquotaIRRF*100+"%", proventos: "-", descontos: valorIRRF },
     { evento: "Totais", ref: "-", proventos: Math.round(valorFerias + (valorFerias/3) + valorAbono + (valorAbono/3) + valor13 + valorHoraExtra), descontos: valorINSS + valorIRRF },
   ];
 
