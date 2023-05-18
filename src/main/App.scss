@@ -1,9 +1,11 @@
 @import "~bootstrap/scss/bootstrap";
 
 $primary: #0054FF;
-
+body{
+  background-color: #f0f5fd;
+}
 .App {
-  font-family: 'Graphik', sans-serif;
+  font-family: 'Inter', sans-serif;
   
   h1 {
     font-size: 3rem;

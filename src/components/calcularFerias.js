@@ -6,12 +6,12 @@ const calcularFerias = (
     abonoPecuniario,
     adiantar13
   ) => {
-    let aliquotaINSS = 0.075
-    let aliquotaIRRF = 0
     const valorFerias = salarioBruto * (diasFerias / 30)
     const valorAbonoPecuniario = abonoPecuniario ? (salarioBruto / 3) : 0
     const valor13 = adiantar13 ? (salarioBruto / 12) : 0
     const valorHoraExtra = mediaHoraExtra * (salarioBruto/180)
+    let aliquotaINSS = 0.075
+    let aliquotaIRRF = 0
     
     if(valorFerias > 1903){
       aliquotaIRRF = 0.075 - (numDependentes * 0.005)
