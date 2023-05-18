@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/calculadora-ferias/static/css/main.b57ec0a5.css",
+    "main.js": "/calculadora-ferias/static/js/main.0dbf7df4.js",
+    "static/js/787.41517f7b.chunk.js": "/calculadora-ferias/static/js/787.41517f7b.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/calculadora-ferias/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/calculadora-ferias/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/calculadora-ferias/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/calculadora-ferias/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/calculadora-ferias/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/calculadora-ferias/index.html",
+    "main.b57ec0a5.css.map": "/calculadora-ferias/static/css/main.b57ec0a5.css.map",
+    "main.0dbf7df4.js.map": "/calculadora-ferias/static/js/main.0dbf7df4.js.map",
+    "787.41517f7b.chunk.js.map": "/calculadora-ferias/static/js/787.41517f7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b57ec0a5.css",
+    "static/js/main.0dbf7df4.js"
+  ]
+}
