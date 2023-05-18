@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/calculadora-ferias/static/css/main.ec1e8fed.css",
-    "main.js": "/calculadora-ferias/static/js/main.0d3321c6.js",
+    "main.js": "/calculadora-ferias/static/js/main.f4a39c2f.js",
     "static/js/787.41517f7b.chunk.js": "/calculadora-ferias/static/js/787.41517f7b.chunk.js",
     "static/media/Logo.svg": "/calculadora-ferias/static/media/Logo.6bc49a7d061db7655e3f45ea43c30ee1.svg",
     "index.html": "/calculadora-ferias/index.html",
     "main.ec1e8fed.css.map": "/calculadora-ferias/static/css/main.ec1e8fed.css.map",
-    "main.0d3321c6.js.map": "/calculadora-ferias/static/js/main.0d3321c6.js.map",
+    "main.f4a39c2f.js.map": "/calculadora-ferias/static/js/main.f4a39c2f.js.map",
     "787.41517f7b.chunk.js.map": "/calculadora-ferias/static/js/787.41517f7b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec1e8fed.css",
-    "static/js/main.0d3321c6.js"
+    "static/js/main.f4a39c2f.js"
   ]
 }
